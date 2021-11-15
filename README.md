@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucaspontesfx
-- 👀 I’m interested in python, java script
+- 👀 I’m interested in python and java script
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on our improvement
 - 📫 How to reach me @lucaspontesfx (instagram)
