@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucaspontesfx
 - 👀 I’m interested in python and java script
-- 🌱 I’m currently learning Html and Css
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on our improvement
 - 📫 How to reach me @lucaspontesfx (instagram)
 
