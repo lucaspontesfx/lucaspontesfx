@@ -16,7 +16,7 @@
  
   <div> 
     <br> <br>
-    <h3>Minhas redes sociais</h3> 👇 👇 
+    <h3>You will also find me on</h3> 👇 👇 
     <br> <br>
   <a href="https://www.instagram.com/lucaspontesfx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucaspontesfx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
